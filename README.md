@@ -17,7 +17,12 @@ Este é o back-end de um projeto de lista de afazeres que se integra a um banco 
 - <b>Prisma</b> - <i> ORM (Object-Relational Mapping) moderno e acessível para TypeScript e Node.js. </i>
 - <b>PostgreSQL</b> - <i> Banco de dados relacional utilizado para armazenar os dados da aplicação. </i>
 
-### Funcionalidades Implementadas
+### Infraestrutura
+- <b>Docker</b> - <i> Plataforma de conteinerização para facilitar o deployment e gerenciamento de aplicações. </i>
+- <b>Docker Hub</b> - <i> Repositório para compartilhar imagens de contêineres Docker. </i>
+<br>
+
+## Funcionalidades Implementadas 🚀
 - <b>CRUD Completo</b>
 - <b>Integração com API</b>
 - <b>Interface Amigável</b>
